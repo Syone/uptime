@@ -4,7 +4,7 @@
     "url": "https://eater.space",
     "icon": "https://icons.duckduckgo.com/ip3/eater.space.ico",
     "slug": "eater-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.09%",
@@ -16,6 +16,7 @@
     "timeMonth": 1768,
     "timeYear": 1495,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-13": 138,
       "2025-08-12": 55,
       "2025-07-30": 15,
